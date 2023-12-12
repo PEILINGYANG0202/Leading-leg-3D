@@ -1,6 +1,6 @@
 # Leading-leg-3D
 
-Leading_leg_3d.ipynb 是自己跑可以使用的空白程式碼，只需要下載影片改最後一個cell的路徑即可<br>
+Leading_leg_3d.ipynb 是空白沒有運行的程式碼，只需要下載影片改成可運行的路徑即可<br>
 Leading_leg_3d_run.ipynb 是我完整跑完程式碼的樣子（可以參考結果）
 
 
