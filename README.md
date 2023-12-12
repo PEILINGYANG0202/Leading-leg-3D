@@ -21,17 +21,17 @@ Leading_leg 的關鍵點：右側：24, 26, 28/ 左側：23, 25, 27
 <h3>4.mov 影片讀取結果：</h3>
 程式碼運行畫面<br>
 
-![](https://imgur.com/nsOeCD4.png)<br>
+![](https://imgur.com/rH2i5QE.png)<br>
 <br>
 程式碼運行完結果<br>
 
-![](https://imgur.com/3qZgiU3.png)<br>
+![](https://imgur.com/IIj5DWt.png)<br>
 <br>
 
 <br>
 <br>
 <h3>運行全部程式碼：</h3>
-[https://youtu.be/vsZ_zx6L4Lo](https://youtu.be/_S2Y3TfaAYM)https://youtu.be/_S2Y3TfaAYM
+https://youtu.be/_S2Y3TfaAYM
 <br>
 <br>
 <br>
